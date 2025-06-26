@@ -80,8 +80,8 @@ APPFORGE_V5/
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/APPFORGE_V5_BACKUP.git
-cd APPFORGE_V5_BACKUP
+git clone https://github.com/stix26/APPFORGE_V5.git
+cd APPFORGE_V5
 ```
 
 ### 2. **Open in Xcode**

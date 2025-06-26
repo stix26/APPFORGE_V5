@@ -10,8 +10,8 @@ AppForge v5 is a **front-end concept** and **UI prototype** that demonstrates wh
 
 ### 1. Fork the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/APPFORGE_V5_BACKUP.git
-cd APPFORGE_V5_BACKUP
+git clone https://github.com/stix26/APPFORGE_V5.git
+cd APPFORGE_V5
 ```
 
 ### 2. Create a Feature Branch
